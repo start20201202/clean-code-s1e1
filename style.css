@@ -23,7 +23,7 @@ img {
 .picture { text-align: center;
 }
 }
-.centered-element {
+.basic {
     display: block;
     width: 500px;
     margin: 0 auto 0;
