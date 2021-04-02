@@ -15,7 +15,7 @@ img {
     width: 100%;
 }
 .picture 
-.details {
+.picture__details {
     font-family: fantasy, cursive;
 }
 
